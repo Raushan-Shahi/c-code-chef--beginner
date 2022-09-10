@@ -20,5 +20,7 @@ int main(){
             cout <<"no"<<endl;
         }
     }    
+    cout << "yes";
+    cout << "no";
 return 0;
 }
