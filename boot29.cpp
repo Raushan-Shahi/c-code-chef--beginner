@@ -18,27 +18,10 @@ void max(int n, int *a)
     cout << count << endl;
 };
 
-int compare(int n, int x, int y, int *a, int *b)
+int compare(int a)
 {
-    int c = 0;
-    for (int j = 0; j < n; j++)
-    {
-        if (x > a[j])
-        {
-            c++;
-            b[j] = y;
-        }
-    }
-    for (int j = 0; j < n; j++)
-    {
-        if (y > b[j])
-        {
-            c++;
-        }
-    }
-    return c;
-};
-
+    
+}
 int main()
 {
     int t;
