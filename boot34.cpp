@@ -33,5 +33,7 @@ int main(void)
 
     if (chkPair(A, size, x))
         printf("Valid pair exists\n");
+    else 
+        printf("valid pair does not exist.");
     return 0;
 }
