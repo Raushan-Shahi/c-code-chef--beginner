@@ -7,7 +7,6 @@ A passenger prefers to choose the nearest exit while leaving the bus.
 Determine the exit taken by passenger sitting on seat XX.
 */
 
-
 #include <iostream>
 using namespace std;
 
