@@ -9,6 +9,14 @@ int main(){
         int r,g,b;
         cin >>r>>g>>b;
         cout <<r<<g<<b;
+        if(b<r)
+        {
+            cout<<b<<endl;
+        }
+        else
+        {
+            cout<<r<<endl;
+        }
     }
 return 0;
 }
